@@ -1,4 +1,5 @@
 Sign Language Detection with Voice Assistance
+
 This project is an AI-driven tool designed to recognize sign language gestures in real time and provide voice feedback for each recognized gesture. It aims to bridge communication gaps by interpreting and vocalizing sign language, enabling easier interactions between sign language users and non-signers.
 
 Project Overview
