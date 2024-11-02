@@ -21,11 +21,14 @@ This project has potential applications in:
 Accessibility: Assisting communication with and for individuals who use sign language.
 Education: Helping learners familiarize themselves with sign language gestures.
 Healthcare: Enabling smoother interactions between healthcare providers and patients who rely on sign language.
-Future Enhancements
-Planned improvements include:
+
+
+Future Enhancements : Planned improvements include:
 
 Expanding Gesture Library: Adding more gestures for comprehensive communication.
 Multi-Language Support: Offering audio feedback in multiple languages.
 Standalone Application: Packaging it as an application for broader accessibility.
+
+
 License
 This project is licensed under the MIT License, allowing free use, modification, and distribution with attribution.
