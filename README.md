@@ -3,9 +3,11 @@ Sign Language Detection with Voice Assistance
 This project is an AI-driven tool designed to recognize sign language gestures in real time and provide voice feedback for each recognized gesture. It aims to bridge communication gaps by interpreting and vocalizing sign language, enabling easier interactions between sign language users and non-signers.
 
 Project Overview
+
 The system leverages computer vision and deep learning to detect gestures, classify them, and generate an audio response. By utilizing MediaPipe for real-time landmark detection and an LSTM (Long Short-Term Memory) model for sequence prediction, the model is able to recognize gestures with impressive accuracy and provide spoken feedback.
 
 Key Features
+
 Real-Time Gesture Recognition: Detects hand gestures through live video input.
 Voice Assistance: Outputs audio feedback for each recognized gesture using Google Text-to-Speech.
 Interactive Visualization: Displays the recognized action in the video feed, allowing users to see real-time classification results.
